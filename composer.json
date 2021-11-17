@@ -19,7 +19,7 @@
         "symfony/routing": "*",
         "jms/metadata": "*",
         "jms/parser-lib": "~1.0",
-        "jms/aop-bundle": "~1.0",
+        "jms/aop-bundle": "*",
         "jms/di-extra-bundle": "~1.4"
     },
     "require-dev": {
