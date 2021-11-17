@@ -17,7 +17,7 @@
         "symfony/security-acl": "*",
         "symfony/dependency-injection": "*",
         "symfony/routing": "*",
-        "jms/metadata": "~1.0",
+        "jms/metadata": "*",
         "jms/parser-lib": "~1.0",
         "jms/aop-bundle": "~1.0",
         "jms/di-extra-bundle": "~1.4"
